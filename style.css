@@ -7,6 +7,7 @@
     display: grid;
     place-items: center;
     min-height: 100vh;
+    font-size: 40px;
 }
 
 .desc {
@@ -24,3 +25,19 @@ body {
 .color {
     color: rgb(171, 0, 187);
 }
+
+.navbar {
+    position: relative;
+    z-index: 10;
+}   
+
+.age {
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+    display: grid;
+    place-items: center;
+    margin-top: -320px;
+    font-size: 40px;
+}
+

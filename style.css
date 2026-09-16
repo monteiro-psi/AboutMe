@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&family=Cinzel:wght@400..900&family=Quicksand:wght@300..700&display=swap');
+
+.greetings {
+    color: white;
+    text-align: center;
+    font-family: "Cinzel", sans-serif;
+}
+
+.desc {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(70, 70, 70);
+}

@@ -1,6 +1,6 @@
 # AboutMe
-> Para a escola
-<img src="https://media.discordapp.net/attachments/1549052726875529236/1551878209325244507/image.png?ex=6ab392b5&is=6ab24135&hm=54adc078e310bb3bbbc9fcf7ad20e7d124ca42db3997c9e1e06d7d99a8061047&=&format=webp&quality=lossless">
+> Mini portfolio
+<img src="https://media.discordapp.net/attachments/1549052726875529236/1551878870486220840/image.png?ex=6ab39353&is=6ab241d3&hm=e740f13be25e9bdc9b52e4c17fe61a2b0830da34484ce1c280d6f499123f05bd&=&format=webp&quality=lossless">
 
 # 1. Introdução 📜
 - Uma página criada com o objetivo de fazer uma breve introdução sobre mim, e também mostrar os meus projetos mais recentes.

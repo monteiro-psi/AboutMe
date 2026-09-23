@@ -1,5 +1,5 @@
 # AboutMe
-> Mini portfolio
+> Repositório: https://github.com/monteiro-psi/AboutMe
 <img src="https://media.discordapp.net/attachments/1549052726875529236/1551878870486220840/image.png?ex=6ab39353&is=6ab241d3&hm=e740f13be25e9bdc9b52e4c17fe61a2b0830da34484ce1c280d6f499123f05bd&=&format=webp&quality=lossless">
 
 # 1. Introdução 📜
